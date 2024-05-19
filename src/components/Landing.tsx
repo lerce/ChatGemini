@@ -40,6 +40,8 @@ export const Landing = (props: LandingProps) => {
                     </button>
                 ))}
             </div>
+
+            <div className="">Served by Google, hosted by Liu Jun, for your free use. Please strictly abide by local laws and regulations when using. Enjoy your AI journey! </div>
         </div>
     );
 };

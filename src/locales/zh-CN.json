@@ -42,7 +42,7 @@
     },
     "views": {
         "Home": {
-            "landing_title": "今天我能如何帮助您？"
+            "landing_title": "你好，我是Gemini。今天我能如何帮助您？"
         },
         "Chat": {
             "view_attachment": "点击查看附件",
